@@ -24,6 +24,9 @@ This program is ideal for users who require a systematic approach to managing pr
 
 Whether it's for small-scale personal projects or larger, more complex operations, the Poised application provides a solid foundation for managing project-related information in an organised and accessible manner.
 
+For a detailed understanding of the program's structure and database layout, please view the [Poised Database Management System Diagram ERD](Poised%20Diagram.drawio.pdf). It provides a visual representation of the relationships between the different sets of data.
+
+
 ## Table of Contents
 
 - [Installation](#installation)
