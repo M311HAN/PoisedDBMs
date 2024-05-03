@@ -1,5 +1,9 @@
 # Poised Data Management System 
 
+## Poised DBMS Menu
+
+![PoisedDBMs Menu](Tables-created-using-program/TableMenu.png)
+
 ## Description
 
 The Poised project is a comprehensive Java application designed for efficient management and interaction with a MySQL database, specifically tailored for project management. It offers a user-friendly interface to handle various aspects of project administration. The program's key features include:
